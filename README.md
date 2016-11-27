@@ -1,3 +1,0 @@
-# privat
-geekhub
-trtr
